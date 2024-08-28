@@ -133,4 +133,7 @@ fabric.properties
 .history
 .ionide
 
+### Dumb Dumb macOS
+.DS_Store
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,jetbrains
