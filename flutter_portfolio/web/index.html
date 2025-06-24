@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Dongyi Guo Flutter Portfolio</title>
+    <link rel="manifest" href="manifest.json" />
+    <meta name="theme-color" content="#000000" />
+  </head>
+  <body>
+    <script src="https://unpkg.com/flutter-web-embedder@latest/dist/flutter.js"></script>
+    <script>
+      // This file assumes you've run `flutter build web`.
+      window.addEventListener('load', function() {
+        _flutter.loader.loadEntrypoint({
+          entrypointUrl: 'main.dart.js',
+        });
+      });
+    </script>
+  </body>
+</html>

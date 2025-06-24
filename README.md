@@ -16,3 +16,7 @@ I used to host my website with services:
 * Wireguard Server for... obvious reasons.
 
 I am no longer hosting them because I am now on a AWS Free Tier, being poor does lock away some fun for you. If you are interested please do check [LandChad](https://landchad.net), if you have any other interesting things to deploy and run but not mentioned, please tell me or contribute to [LandChad](https://landchad.net)
+## Flutter Port
+
+A simple Flutter web app is provided in `flutter_portfolio/`. Build it with `flutter build web` to generate a modern, mobile-friendly version of the site that can later be packaged as a mobile app.
+
