@@ -137,3 +137,10 @@ fabric.properties
 .DS_Store
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,jetbrains
+
+### Local preview / generated files ###
+.serve.log
+.serve.err.log
+.local-server*
+.chrome-profile*/
+*-check.png
